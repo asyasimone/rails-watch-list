@@ -71,3 +71,4 @@ gem "simple_form"
 gem "sassc-rails"
 gem 'faker', '~> 3.4', '>= 3.4.1'
 gem "dotenv-rails"
+gem "cloudinary"
